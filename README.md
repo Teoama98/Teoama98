@@ -1,7 +1,7 @@
 Hi there 👋
-Currently doing an internship in FCS
-Student of ITS Digital Academy Mario Volpato
-Living in Italy since '98
+Currently doing an internship in FCS // 
+Student of ITS Digital Academy Mario Volpato // 
+Living in Italy since '98 // 
 Trying to learn some BI using Qlik
 
 
