@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there 👋
+Currently doing an internship in FCS
+Student of ITS Digital Academy Mario Volpato
+Living in Italy since '98
+Trying to learn some BI using Qlik
+
 
 <!--
 **Teoama98/Teoama98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
